@@ -1,0 +1,18 @@
+                        -H/data/data/com.termux/files/home/myapp/app/src/main/cpp
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=24
+-DANDROID_PLATFORM=android-24
+-DANDROID_ABI=arm64-v8a
+-DCMAKE_ANDROID_ARCH_ABI=arm64-v8a
+-DANDROID_NDK=/data/data/com.termux/files/usr/opt/android-sdk/ndk/29.0.14206865
+-DCMAKE_ANDROID_NDK=/data/data/com.termux/files/usr/opt/android-sdk/ndk/29.0.14206865
+-DCMAKE_TOOLCHAIN_FILE=/data/data/com.termux/files/usr/opt/android-sdk/ndk/29.0.14206865/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/data/data/com.termux/files/usr/opt/android-sdk/cmake/4.1.2/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/data/data/com.termux/files/home/myapp/app/build/intermediates/cxx/Debug/286t1y3w/obj/arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/data/data/com.termux/files/home/myapp/app/build/intermediates/cxx/Debug/286t1y3w/obj/arm64-v8a
+-DCMAKE_BUILD_TYPE=Debug
+-B/data/data/com.termux/files/home/myapp/app/.cxx/Debug/286t1y3w/arm64-v8a
+-GNinja
+                        Build command args: []
+                        Version: 2

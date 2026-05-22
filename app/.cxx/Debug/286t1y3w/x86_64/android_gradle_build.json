@@ -1,0 +1,38 @@
+{
+  "buildFiles": [
+    "/data/data/com.termux/files/home/myapp/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/data/data/com.termux/files/usr/opt/android-sdk/cmake/4.1.2/bin/ninja",
+      "-C",
+      "/data/data/com.termux/files/home/myapp/app/.cxx/Debug/286t1y3w/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/data/data/com.termux/files/usr/opt/android-sdk/cmake/4.1.2/bin/ninja",
+    "-C",
+    "/data/data/com.termux/files/home/myapp/app/.cxx/Debug/286t1y3w/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "taskflow::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "x86_64",
+      "artifactName": "taskflow",
+      "output": "/data/data/com.termux/files/home/myapp/app/build/intermediates/cxx/Debug/286t1y3w/obj/x86_64/libtaskflow.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/data/data/com.termux/files/usr/opt/android-sdk/ndk/29.0.14206865/toolchains/llvm/prebuilt/linux-arm64/bin/clang.lld",
+      "cppCompilerExecutable": "/data/data/com.termux/files/usr/opt/android-sdk/ndk/29.0.14206865/toolchains/llvm/prebuilt/linux-arm64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

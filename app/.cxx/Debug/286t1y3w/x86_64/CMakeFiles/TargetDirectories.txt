@@ -1,0 +1,3 @@
+/data/data/com.termux/files/home/myapp/app/.cxx/Debug/286t1y3w/x86_64/CMakeFiles/taskflow.dir
+/data/data/com.termux/files/home/myapp/app/.cxx/Debug/286t1y3w/x86_64/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/myapp/app/.cxx/Debug/286t1y3w/x86_64/CMakeFiles/rebuild_cache.dir

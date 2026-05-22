@@ -1,0 +1,1 @@
+/data/data/com.termux/files/home/myapp/app/src/main/cpp/CMakeLists.txt

@@ -1,0 +1,4 @@
+# ninja log v6
+2	6664	1779435062281284848	CMakeFiles/taskflow.dir/native-lib.cpp.o	f0f7b599412520cd
+6671	6878	1779435068949284849	/data/data/com.termux/files/home/myapp/app/build/intermediates/cxx/Debug/286t1y3w/obj/arm64-v8a/libtaskflow.so	9de429ac937c70d7
+7	26	1779435448852029175	clean	ca480fdd95c84500
